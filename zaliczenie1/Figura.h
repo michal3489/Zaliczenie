@@ -32,7 +32,5 @@ class Stozek: Bazowa
 };
 class Ostroslup: Bazowa
 {
-	void pole();
-	void obwod();
-	void przekatna();
+	
 };
